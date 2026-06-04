@@ -239,5 +239,14 @@ L'enseignant peut :
 - Export PDF
 
 ---
+utilisateurs
 
+Gestionnaire:
+    email: admin@gmail.com
+    mot de passe :123456
 
+Compte Enseignant par defaut
+    email: prof@gmail.com
+    mot de passe :123456
+
+Tout compte creer est par defaut un enseignant et n'acces a aucune classe. Il revient au gestionnaire d'affecter les enseignants dans les classes existantes leur permettant de pouvour ajouter ou modifier les notes des eleves de cette classe
