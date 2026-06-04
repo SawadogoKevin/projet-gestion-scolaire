@@ -81,8 +81,7 @@ L'application permet :
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/VOTRE_COMPTE/projet-gestion-scolaire.git
-```
+git clone https://github.com/SawadogoKevin/projet-gestion-scolaire.git
 
 ### 2. Entrer dans le dossier
 
