@@ -18,7 +18,7 @@ L'application permet la gestion administrative, financière et pédagogique d'un
 ## Encadrement
 
 **Enseignant :**
-Lionel Marcus G. KABORET
+Docteur Lionel Marcus G. KABORET
 
 **Université :**
 Université Joseph Ki-Zerbo
@@ -132,7 +132,23 @@ DB_PASSWORD=
 php artisan migrate
 ```
 
-### 8. Lancer le serveur
+```bash
+php artisan migrate:fresh --seed
+
+### 8. Installer les dépendances
+
+Installer Node.js (si pas déjà fait)
+
+npm install
+
+### 10. Lancer le compilateur 
+juste Lancer (dans un terminal)
+    npm run dev
+
+Installer
+    npm run build
+
+### 9. Lancer le serveur
 
 ```bash
 php artisan serve
