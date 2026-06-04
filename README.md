@@ -8,7 +8,7 @@ L'application permet la gestion administrative, financière et pédagogique d'un
 
 ---
 
-## Membres du groupe
+## Membres du groupe N°5
 
 - Sawadogo Wendwaoga Kevin Marie
 - Sam Ibrahim
